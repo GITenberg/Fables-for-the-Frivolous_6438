@@ -1,0 +1,56 @@
+_repo: Fables-for-the-Frivolous_6438
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Newell, Peter
+    alias: Newell, P. S. (Peter S.)
+    birthdate: 1862
+    deathdate: 1924
+    gutenberg_agent_id: '7143'
+    url: http://www.gutenberg.org/2009/agents/7143
+creator:
+  author:
+    agent_name: Carryl, Guy Wetmore
+    birthdate: 1873
+    deathdate: 1904
+    gutenberg_agent_id: '9039'
+    url: http://www.gutenberg.org/2009/agents/9039
+    wikipedia: http://en.wikipedia.org/wiki/Guy_Wetmore_Carryl
+description: "Fables for the Frivolous is one of the earliest works by the American\
+  \ parodist Guy Wetmore Carryl. These fables are adapted from Jean de La Fontaine's\
+  \ original writings. The Aesop-style fables are written in verse, and are light-hearted\
+  \ re-tellings of fables from two centuries before, each ending with a moral and\
+  \ a pun. Among the more celebrated of the fables are The Persevering Tortoise and\
+  \ the Pretentious Hare, The Arrogant Frog and the Superior Bull, and The Sycophantic\
+  \ Fox and the Gullible Raven.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6438'
+  wikidata: Q5427940
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Humorous poetry'
+- !lcsh 'Fables'
+- GITenberg
+tableOfContents: The ambitious fox and the unapproachable grapes -- The persevering
+  tortoise and the pretentious hare -- The patrician peacocks and the overweening
+  jay -- The arrogant frog and the superior bull -- The domineering eagle and the
+  inventive bratling -- The iconoclastic rustic and the apropos acorn -- The unusual
+  goose and the imbecilic woodcutter -- The rude rat and the unostentatious oyster
+  -- The urban rat and the suburban rat -- The impecunious cricket and the frugal
+  ant -- The pampered lapdog and the misguided ass -- The vainglorious oak and the
+  modest bullrush -- The inhuman wolf and the lamb sans gene -- The sycophantic fox
+  and the gullible raven -- The microscopic trout and the machiavellian fisherman
+  -- The confiding peasant and the maladroit bear -- The precipitate cock and the
+  unappreciated pearl -- The abbreviated fox and his sceptical comrades -- The hospitable
+  caledonian and the thankless viper -- The impetuous breeze and the diplomatic sun.
+title: Fables for the Frivolous
+url: http://www.gutenberg.org/ebooks/6438
+wikipedia:
+- https://en.wikipedia.org/wiki/Fables_for_the_Frivolous
